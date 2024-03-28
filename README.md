@@ -4,28 +4,28 @@ A basic Laravel course by Traversy Media about making a job listing application.
 ---
 This tutorial includes:
 - Job Listings Page
-![](/readme-images/Screenshot 2024-03-28 085520.png)
+![](https://github.com/henlyforbesly/laragigs-traversy-media/blob/main/readme-images/Screenshot%202024-03-28%20085520.png?raw=true)
 
 
 - Job Listing Detail Page
-  ![](/readme-images/Screenshot 2024-03-28 085630.png)
+  ![](https://github.com/henlyforbesly/laragigs-traversy-media/blob/main/readme-images/Screenshot%202024-03-28%20085630.png?raw=true)
 
 
 - Filter Listings based on Tag and/or Search
-  ![](/readme-images/Screenshot 2024-03-28 085657.png)
+  ![](https://github.com/henlyforbesly/laragigs-traversy-media/blob/main/readme-images/Screenshot%202024-03-28%20085657.png?raw=true)
 
 
 - Manage Own Listings Page
-  ![](/readme-images/Screenshot 2024-03-28 085830.png)
+  ![](https://github.com/henlyforbesly/laragigs-traversy-media/blob/main/readme-images/Screenshot%202024-03-28%20085830.png?raw=true)
 
 
 - Edit Job Listings Page
-  ![](/readme-images/Screenshot 2024-03-28 085844.png)
-  ![](/readme-images/Screenshot 2024-03-28 085850.png)
+  ![](https://github.com/henlyforbesly/laragigs-traversy-media/blob/main/readme-images/Screenshot%202024-03-28%20085844.png?raw=true)
+  ![](https://github.com/henlyforbesly/laragigs-traversy-media/blob/main/readme-images/Screenshot%202024-03-28%20085850.png?raw=true)
 
 
 - Authentication Pages
-  ![](/readme-images/Screenshot 2024-03-28 085909.png)
-  ![](/readme-images/Screenshot 2024-03-28 085915.png)
+  ![](https://github.com/henlyforbesly/laragigs-traversy-media/blob/main/readme-images/Screenshot%202024-03-28%20085909.png?raw=true)
+  ![](https://github.com/henlyforbesly/laragigs-traversy-media/blob/main/readme-images/Screenshot%202024-03-28%20085915.png?raw=true)
 
 Thank you, @bradtraversy from Traversy Media, for this tutorial. It feels great to follow this tutorial and completing it. Through this course, my confidence on Laravel basics got boosted! ✨ 
